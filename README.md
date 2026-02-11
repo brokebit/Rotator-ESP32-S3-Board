@@ -13,3 +13,13 @@
 - Motors are powered by seperate power source 
 - Voltage select headers to select either 3.3v or 5v logic for RS232 interfaces (GPS, LCD)
 - 6 Layer Board
+
+
+# Build Pics
+![alt text](https://github.com/brokebit/Rotator-ESP32-S3-Board/blob/main/production/IMG_2144.jpg?raw=true)
+![alt text](https://github.com/brokebit/Rotator-ESP32-S3-Board/blob/main/production/IMG_2148.jpg?raw=true)
+![alt text](https://github.com/brokebit/Rotator-ESP32-S3-Board/blob/main/production/IMG_2150.jpg?raw=true)
+![alt text](https://github.com/brokebit/Rotator-ESP32-S3-Board/blob/main/production/IMG_2152.jpg?raw=true)
+![alt text](https://github.com/brokebit/Rotator-ESP32-S3-Board/blob/main/production/IMG_2161.jpg?raw=true)
+![alt text](https://github.com/brokebit/Rotator-ESP32-S3-Board/blob/main/production/IMG_2165.jpg?raw=true)
+![alt text](https://github.com/brokebit/Rotator-ESP32-S3-Board/blob/main/production/IMG_2166.jpg?raw=true)
