@@ -3,7 +3,8 @@
 ![alt text](https://github.com/brokebit/Rotator-ESP32-S3-Board/blob/main/production/Controller_Rendering.jpg?raw=true)
 
 
-# Features / Design Info 
+# Features / Design Info
+- One of the ESP32 serial ports exposes a GS-232 interface for motor control commands for connecting to a PC interfacing with rotctld from the Hamlib suite
 - GPS Time Sync using NEMA GPS Module over RS232
 - Serial interface for Nextion Display
 - Designed for Clearpath servo motors from https://teknic.com/
